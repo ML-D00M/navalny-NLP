@@ -1,6 +1,6 @@
 # navalny-NLP
 
-Our NLP analysis aimed to investigate the authorship of texts attributed to Alexey Navalny during his imprisonment. The additional aim was to compare the identified stylistic differences in Alexey's jailed/free texts with the differences between similar texts of his brother, Oleg Navalny, who was also a political prisoner.
+Our NLP analysis aimed to investigate the “Navalny doesn't write his public texts from jail himself” narrative. The additional aim was to compare the stylistic differences in Alexey's jailed/free texts with the differences between similar texts of his brother, Oleg Navalny, who was also a political prisoner.
 
 ## Project Overview
 In August 2023, an online discussion emerged regarding the authorship of texts published in the name of Russian political prisoner Alexey Navalny. This project aimed to conduct a stylometric analysis of Navalny's texts during his imprisonment, comparing them with his texts written when free and those authored by other members of his Anti-Corruption Foundation (ACF/FBK) team. Our work built upon an existing Navalny+FBK text archive (https://github.com/norpadon/navalny), with two significant additions:
